@@ -1,5 +1,5 @@
 # PR13-Bahasa_Pemrograman_A-Gerald_Sitorus
-Isinya adalah file cpp saya sesuai tugas nomor 15 dan akan saya hapus 3 minggu mendatang demi keindahan GitHub saya.
+Isinya adalah file cpp saya sesuai tugas nomor 15.
 
 ![Yui Imut](assets/Documentation.png)
 <p align="center">
